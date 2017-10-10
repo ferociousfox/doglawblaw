@@ -1,0 +1,25 @@
+body {
+  font-family: serif;
+  color: #635343;
+  background-color: #f7f1c3;
+}
+
+
+h1 {
+
+  color: #635343;
+  text-align: center;
+}
+
+h2 {
+  color: #635343;
+}
+
+h3 {
+  color: #635343;
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+}
